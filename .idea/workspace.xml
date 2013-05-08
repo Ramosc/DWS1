@@ -29,10 +29,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="self assesment.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DWS1/Lab/self assesment.html">
+      <file leaf-file-name="element_definitions.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DWS1/Lab/element_definitions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="16" selection-start="2501" selection-end="2501" vertical-scroll-proportion="0.659271">
+            <state line="43" column="16" selection-start="2454" selection-end="2454" vertical-scroll-proportion="0.82408875">
               <folding />
             </state>
           </provider>
@@ -51,6 +51,8 @@
         <option value="$PROJECT_DIR$/DWS1/template.html" />
         <option value="$PROJECT_DIR$/DWS1/Template/template.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/self assesment.html" />
+        <option value="$PROJECT_DIR$/DWS1/Lab/Wk 1 Assignment Part A: Intro to HTML.html" />
+        <option value="$PROJECT_DIR$/DWS1/Lab/element_definitions.html" />
       </list>
     </option>
   </component>
@@ -114,10 +116,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DWS1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,6 +254,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/self_assesment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="16" selection-start="2501" selection-end="2501" vertical-scroll-proportion="1.1125199">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Template/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="301" vertical-scroll-proportion="-0.0">
@@ -263,9 +268,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/self assesment.html">
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/miami_ dolphins_ offense.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="16" selection-start="2501" selection-end="2501" vertical-scroll-proportion="0.659271">
+        <state line="11" column="5" selection-start="529" selection-end="529" vertical-scroll-proportion="0.4532488">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/element_definitions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="16" selection-start="2454" selection-end="2454" vertical-scroll-proportion="0.82408875">
           <folding />
         </state>
       </provider>
