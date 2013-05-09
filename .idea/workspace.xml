@@ -23,7 +23,7 @@
       <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DWS1/Template/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="301" selection-end="301" vertical-scroll-proportion="0.4037267">
+            <state line="0" column="0" selection-start="0" selection-end="301" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -62,6 +62,22 @@
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -139,37 +155,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Webroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Webroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWS1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examplearts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
@@ -182,6 +180,24 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f45ad321-de44-4a9a-9290-a93d557dac3f" name="Default" comment="" />
@@ -192,12 +208,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="823" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15737474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15737474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -267,6 +283,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DWS1/Template/template.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Template/template.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -279,84 +302,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/self_assesment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="16" selection-start="2501" selection-end="2501" vertical-scroll-proportion="1.5632912">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/movies/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="181" selection-end="181" vertical-scroll-proportion="0.37083992">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/movies/dvd/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="56" selection-start="203" selection-end="203" vertical-scroll-proportion="0.37083992">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/movies/cinema/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="178" selection-end="178" vertical-scroll-proportion="0.22503962">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="0" selection-end="2888" vertical-scroll-proportion="0.79873216">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/theater/reviews.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="0" selection-end="4387" vertical-scroll-proportion="0.41045958">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/theater/listings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="0" selection-end="4389" vertical-scroll-proportion="0.28843105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/theater/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="62" selection-start="0" selection-end="4420" vertical-scroll-proportion="0.70047545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/music/reviews.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="42" selection-start="0" selection-end="4383" vertical-scroll-proportion="-8.935484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/music/listings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="0" selection-end="4385" vertical-scroll-proportion="0.49445325">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/examplearts/music/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="33" selection-start="0" selection-end="4412" vertical-scroll-proportion="0.33755943">
-          <folding />
-        </state>
+        <state line="38" column="16" selection-start="2501" selection-end="2501" vertical-scroll-proportion="1.5632912" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Template/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="301" selection-end="301" vertical-scroll-proportion="0.4037267">
+        <state line="0" column="0" selection-start="0" selection-end="301" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
