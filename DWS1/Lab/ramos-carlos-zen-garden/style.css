@@ -1,0 +1,19 @@
+body {
+    background: #f5f5dc;
+    font-family: sans-serif;
+}
+ol li a{
+    color: maroon;
+}
+ol{
+    border: 5px;
+    color: red;
+}
+h1 {
+    font-family: "Trebuchet MS";
+}
+p{
+    border: 1px solid #000000;
+}
+
+
