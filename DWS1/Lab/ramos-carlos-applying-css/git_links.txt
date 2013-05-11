@@ -1,3 +1,6 @@
 https://github.com/Ramosc/DWS1.git
 
-http://Ramosc.github.io//DWS1/DWS1/Lab/ramos-carlos-links/examplearts/index.html
+http://Ramosc.github.io//DWS1/DWS1/Lab/ramos-carlos-applying-css/embedded.html
+http://Ramosc.github.io//DWS1/DWS1/Lab/ramos-carlos-applying-css/external.html
+http://Ramosc.github.io//DWS1/DWS1/Lab/ramos-carlos-applying-css/inline.html
+
