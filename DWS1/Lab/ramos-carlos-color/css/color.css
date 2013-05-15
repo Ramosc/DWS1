@@ -1,0 +1,18 @@
+/*
+Found colors using http://colorschemedesigner.com/ and http://meyerweb.com/eric/css/colors/
+*/
+body{
+    background: #80ACBF;
+}
+h1, h2{
+    background: rgba(0,128,128,.25);
+}
+#skillet, #touring, #discography{
+    color: hsl(240,100%,25.1%);
+}
+p{
+    color: navy;
+}
+ul{
+   color: rgb(0,0,128);
+}
