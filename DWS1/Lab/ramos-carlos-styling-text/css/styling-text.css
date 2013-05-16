@@ -1,0 +1,41 @@
+body{
+    font-family: helvetica, arial, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: justify;
+    background: #80ACBF
+}
+p{
+   font-weight: lighter;
+   color: navy;
+}
+ul{
+    font-style: italic;
+    color: rgb(0,0,128);
+    list-style-type: decimal;
+}
+.top{
+    text-transform: lowercase;
+}
+h1, h2{
+    font-family: 'Shojumaru', cursive;
+    text-shadow: 4px 4px 16px #fff;
+}
+#skillet, #touring, #discography{
+    color: hsl(240,100%,25.1%);
+}
+a:link{
+    color: purple;
+    text-decoration: none;
+}
+a:visited{
+    color: #000000;
+}
+a:hover{
+    color: #ffd700;
+    text-decoration: underline;
+}
+a:active{
+    color: maroon;
+}
