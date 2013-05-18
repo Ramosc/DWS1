@@ -1,0 +1,81 @@
+body{
+    font: 18px/24px helvetica arial sans-serif;
+    letter-spacing: 1px;
+    text-align: justify;
+    background: #80ACBF
+}
+p{
+   font-weight: 400;
+   color: #000080;
+}
+a:link{
+    color: purple;
+    text-decoration: none;
+}
+a:visited{
+    color: #000;
+}
+a.top:visited{
+    color: purple;
+}
+a:hover{
+    color: #ffd700;
+    text-decoration: underline;
+}
+a:active{
+    color: maroon;
+}
+/* ---top-border div--- */
+#skillet{
+    width: 400px;
+    height: 24px;
+    border: 5px double #1C2F40;
+    padding: 10px;
+    margin: 50px auto;
+    font-family: 'Shojumaru', cursive;
+    text-shadow: 4px 4px 16px #fff;
+}
+#page-links{
+    width: 500px;
+}
+#page-links li{
+    list-style-type: none;
+    display: inline-block;
+    border: 5px solid #1C2F40;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px auto;
+    background-color: #6F95A5;
+    box-shadow: 5px 5px 10px #777;
+}
+/* ---end top div--- */
+/* ---content div--- */
+#content-wrapper{
+    background-color: #6F95A5;
+    width: 1000px;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 10px 5px 10px #777;
+}
+#disc{
+    font-style: italic;
+    color: rgb(0,0,128);
+    list-style-type: decimal;
+}
+.top{
+    text-transform: lowercase;
+}
+h2{
+    width: 400px;
+    height: 24px;
+    border: 5px double #1C2F40;
+    padding: 10px 10px 10px 200px;
+    margin: 10px;
+    font-family: 'Shojumaru', cursive;
+    text-shadow: 4px 4px 16px #fff;
+}
+#skillet, #touring, #discography{
+    color: hsl(240,100%,25.1%);
+}
+/*---end content div---*/
