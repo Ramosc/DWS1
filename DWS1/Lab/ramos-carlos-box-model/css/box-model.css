@@ -75,7 +75,10 @@ h2{
     font-family: 'Shojumaru', cursive;
     text-shadow: 4px 4px 16px #fff;
 }
-#skillet, #touring, #discography{
+#skillet, #touring{
+    color: hsl(240,100%,25.1%);
+}
+#discography, #disc{
     color: hsl(240,100%,25.1%);
 }
 /*---end content div---*/
