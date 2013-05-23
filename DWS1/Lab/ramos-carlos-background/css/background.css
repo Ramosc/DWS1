@@ -1,0 +1,104 @@
+body{
+    background-image: url(../background-images/pyramid.gif);
+    background-repeat: repeat;
+    width: 90%;
+    margin: 0 auto;
+    font: 1.124em/1.500em helvetica arial sans-serif;
+    letter-spacing: 0.063em;
+    text-align: justify;
+}
+p{
+   width: 70%;
+   font-weight: 400;
+   color: #000080;
+}
+a:link{
+    color: purple;
+    text-decoration: none;
+}
+a:visited{
+    color: #000;
+}
+a.top:visited{
+    color: purple;
+}
+a:hover{
+    color: #ffd700;
+    text-decoration: underline;
+}
+a:active{
+    color: maroon;
+}
+/* ---top-border div--- */
+#skillet{
+    width: 30%;
+    margin: 1.500em auto;
+    color: hsl(240,100%,25.1%);
+    font-family: 'Shojumaru', cursive;
+    text-shadow: 0.250em 0.250em 1em #fff;
+}
+#page-links{
+    width: 40%;
+}
+#page-links li{
+    list-style-type: none;
+    display: inline-block;
+    border: 0.313em solid #1C2F40;
+    border-radius: 0.625em;
+    padding: 0.313em;
+    margin: 0.313em auto;
+    background-color: #6F95A5;
+    box-shadow: 0.313em 0.313em 0.625em #777;
+}
+/* ---end top div--- */
+/* ---content div--- */
+#content-wrapper{
+    background: #1e5799;
+    background: linear-gradient(to bottom,#1e5799 0%,#2989d8 17%,#207cca 67%,#7db9e8 98%);
+    width: 90%;
+    padding: 0.625em;
+    margin: 1% auto;
+    border-radius: 0.625em;
+    box-shadow: 0.625em 0.313em 0.625em #777;
+}
+#disc{
+    background-image: url("../background-images/pattern_156.gif");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    width: 20%;
+    float: right;
+    clear: both;
+    margin: 1%;
+    font-style: italic;
+    color: rgb(0,0,128);
+    list-style-type: decimal;
+}
+.top{
+    text-transform: lowercase;
+}
+#discography{
+    float: right;
+    border: double #1C2F40;
+    border-width: 0 0 0.313em 0;
+    padding: 1%;
+    margin: 1%;
+    color: hsl(240,100%,25.1%);
+    font-family: 'Shojumaru', cursive;
+    text-shadow: 0.313em 0.313em 1em #fff;
+
+}
+#touring{
+    width: 20%;
+    float: left;
+    clear: both;
+    border: double #1C2F40;
+    border-width: 0 0 0.313em 0;
+    color: hsl(240,100%,25.1%);
+    padding: 1%;
+    margin: 1%;
+    font-family: 'Shojumaru', cursive;
+    text-shadow: 0.313em 0.313em 1em #fff;
+    overflow: hidden;
+}
+
+/*---end content div---*/

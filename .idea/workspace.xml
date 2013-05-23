@@ -20,19 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/layout.html">
+      <file leaf-file-name="background.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="8" selection-start="2428" selection-end="2428" vertical-scroll-proportion="1.7056">
+            <state line="79" column="61" selection-start="6712" selection-end="6712" vertical-scroll-proportion="-66.258064">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/css/layout.css">
+      <file leaf-file-name="background.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/css/background.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="20" selection-start="1889" selection-end="1895" vertical-scroll-proportion="0.0">
+            <state line="59" column="20" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.4526316">
               <folding />
             </state>
           </provider>
@@ -48,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/DWS1/Lab/examplearts/music/listings.html" />
-        <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-images/gallery.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/inline.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/embedded.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/external.html" />
@@ -64,13 +62,15 @@
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-box-model/css/box-model.css" />
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/layout.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/css/layout.css" />
+        <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html" />
+        <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/css/background.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -182,7 +182,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ramos-carlos-layout" />
+              <option name="myItemId" value="ramos-carlos-background" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,11 +204,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ramos-carlos-layout" />
+              <option name="myItemId" value="ramos-carlos-background" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webroot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webroot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramos-carlos-background" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="background-images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,8 +246,9 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -269,7 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="817" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -343,16 +370,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DWS1/Template/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-applying-css/embedded.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-applying-css/external.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -425,16 +442,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="20" selection-start="1889" selection-end="1895" vertical-scroll-proportion="0.0">
+        <state line="41" column="8" selection-start="2428" selection-end="2428" vertical-scroll-proportion="1.7056">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/layout.html">
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="8" selection-start="2428" selection-end="2428" vertical-scroll-proportion="1.7056">
+        <state line="95" column="20" selection-start="1889" selection-end="1895" vertical-scroll-proportion="3.264574">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="61" selection-start="6712" selection-end="6712" vertical-scroll-proportion="-66.258064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/css/background.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="20" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.4526316">
           <folding />
         </state>
       </provider>
