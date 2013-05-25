@@ -20,19 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="background.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html">
+      <file leaf-file-name="html5-layout.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-html5layouts-tables/html5-layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="61" selection-start="6712" selection-end="6712" vertical-scroll-proportion="-66.258064">
+            <state line="110" column="6" selection-start="0" selection-end="8221" vertical-scroll-proportion="0.62258065">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="background.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/css/background.css">
+      <file leaf-file-name="html5-layout.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-html5layouts-tables/css/html5-layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="20" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.4526316">
+            <state line="128" column="25" selection-start="0" selection-end="2711" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/inline.html" />
-        <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/embedded.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/external.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/applying-css/styles.css" />
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-zen-garden/style.css" />
@@ -64,6 +62,8 @@
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/css/layout.css" />
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html" />
         <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/css/background.css" />
+        <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-html5layouts-tables/html5-layout.html" />
+        <option value="$PROJECT_DIR$/DWS1/Lab/ramos-carlos-html5layouts-tables/css/html5-layout.css" />
       </list>
     </option>
   </component>
@@ -182,7 +182,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ramos-carlos-background" />
+              <option name="myItemId" value="ramos-carlos-html5layouts-tables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,37 +204,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ramos-carlos-background" />
+              <option name="myItemId" value="ramos-carlos-html5layouts-tables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Webroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Webroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWS1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ramos-carlos-background" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="background-images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,16 +344,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-applying-css/external.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-zen-garden/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.73841554" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-links/examplearts/movies/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.83870965" />
@@ -402,70 +366,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-color/color.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="413" selection-end="413" vertical-scroll-proportion="0.5824">
-          <folding />
-        </state>
+        <state line="14" column="5" selection-start="413" selection-end="413" vertical-scroll-proportion="0.5824" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-color/css/color.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="268" selection-end="297" vertical-scroll-proportion="0.58295965">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="268" selection-end="297" vertical-scroll-proportion="0.58295965" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-styling-text/styling-text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="0" selection-start="5712" selection-end="5712" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="69" column="0" selection-start="5712" selection-end="5712" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-styling-text/css/styling-text.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="34" selection-start="424" selection-end="424" vertical-scroll-proportion="0.85500747">
-          <folding />
-        </state>
+        <state line="22" column="34" selection-start="424" selection-end="424" vertical-scroll-proportion="0.85500747" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-box-model/css/box-model.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="31" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.8445441">
-          <folding />
-        </state>
+        <state line="81" column="31" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.8445441" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-box-model/box-model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0416">
-          <folding />
-        </state>
+        <state line="11" column="6" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0416" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="8" selection-start="2428" selection-end="2428" vertical-scroll-proportion="1.7056">
-          <folding />
-        </state>
+        <state line="41" column="8" selection-start="2428" selection-end="2428" vertical-scroll-proportion="1.7056" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-layout/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="20" selection-start="1889" selection-end="1895" vertical-scroll-proportion="3.264574">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="61" selection-start="6712" selection-end="6712" vertical-scroll-proportion="-66.258064">
-          <folding />
-        </state>
+        <state line="95" column="20" selection-start="1889" selection-end="1895" vertical-scroll-proportion="3.264574" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/css/background.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="20" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.4526316">
+        <state line="59" column="20" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.039156627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-background/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="61" selection-start="6712" selection-end="6712" vertical-scroll-proportion="0.4967742" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-html5layouts-tables/css/html5-layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="25" selection-start="0" selection-end="2711" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DWS1/Lab/ramos-carlos-html5layouts-tables/html5-layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="6" selection-start="0" selection-end="8221" vertical-scroll-proportion="0.62258065">
           <folding />
         </state>
       </provider>
